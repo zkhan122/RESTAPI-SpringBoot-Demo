@@ -1,0 +1,6 @@
+com\example\RESTAPISpringBootDemo\student\StudentRepository.class
+com\example\RESTAPISpringBootDemo\student\StudentController.class
+com\example\RESTAPISpringBootDemo\RestapiSpringBootDemoApplication.class
+com\example\RESTAPISpringBootDemo\student\StudentConfig.class
+com\example\RESTAPISpringBootDemo\student\Student.class
+com\example\RESTAPISpringBootDemo\student\StudentService.class
